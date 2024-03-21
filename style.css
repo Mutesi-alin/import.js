@@ -132,6 +132,97 @@ margin-left: 120px;
     display: flex;
     gap: 89px;
 }
+.footer{
+    display: flex;
+}
+form{
+    margin-left: 150px;
 
+}
+
+@media screen and (min-width:280px) and (max-width:330px){
+    body{
+        .footer{
+            display: flex;
+            flex-wrap: wrap;
+            
+        }
+        
+        .byose{
+            flex-wrap: wrap;
+            width: 0px;
+            height: 67px;
+        }
+
+.demo{
+    display: flex;
+    font-size: x-large;
+    flex-wrap: wrap;
+}
+.image{
+    gap: 0px;
+    flex-wrap: wrap;
+    width: 30px;
+
+}  
+.even{
+    display: flex;
+    
+    flex-wrap: wrap;
+} 
+yego{
+    flex-wrap: wrap;
+}  
+#nav a{
+    text-decoration: none;
+    
+    color: rgb(99, 99, 224);
+    display: none;
+    
+    
+}
+header{
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+#navbar li {
+    display: inline-block;
+ margin-top: 10px;
+ 
+ grid-auto-flow: row;
+ list-style-type: none;
+ row-gap: 40px;
+ column-gap: 0;
+ justify-items: center; 
+
+
+          }
+          .all{
+            margin-left: 5px;
+            flex-wrap: wrap;
+            
+        }
+        .buyer{
+            width: px;
+            
+        }
+        .mine{
+            display: flex;
+            padding-left: 10px;
+            flex-wrap: wrap;
+            width: 400px;
+            flex-wrap: wrap;
+
+            
+        }
+
+
+        
+    }
+}
+    
 
 
